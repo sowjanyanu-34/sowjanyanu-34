@@ -16,12 +16,8 @@
 <p align="center">
   <a href="https://www.instagram.com/sowjanya__344?igsh=djZyNzh3a2Zhd29z" alt="Instagram" title="Instagram">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/shubham-404-" alt="LinkedIn" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/sowjanya-n-u-78b5662a1" alt="LinkedIn" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)"/></a>
-  <a href="https://medium.com/@shubham-404" alt="Medium" title="Medium">
-    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/></a>
-  <a href="https://www.reddit.com/user/mrx-404/" alt="Reddit" title="Reddit">
-    <img src="https://img.shields.io/badge/Reddit-%23F05033.svg?logo=reddit&logoColor=white"/></a>  
 </p>
 
 🧠 I often share what I'm learning (and how I’m learning) through bite-sized posts and articles on Medium and discussions on Reddit.<br>
