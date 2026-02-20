@@ -2,7 +2,7 @@
 
 <p align="center">
 💻 Backend & Machine Learning Enthusiast <br>
-🎓 B.E. Computer Science Student | Mysore, India <br>
+🎓 B.E. Computer Science Student @ NIE Mysore, India <br>
 🚀 Passionate about building real-time apps & intelligent systems
 </p>
 
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-🔧 Currently learning **Backend Development & Machine Learning**  
+🔧 Currently learning **Backend Development & Machine Learning**
 🧠 Exploring **Computer Vision & real-time intelligent systems**  
 🤝 Open to collaboration on creative & impactful tech projects  
 📚 I share what I learn through bite-sized posts & discussions  
@@ -111,4 +111,4 @@
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and collaborate.*
+⭐ ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and collaborate. If you find something helpful, consider giving it a star.*
