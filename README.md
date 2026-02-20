@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=You're+right+on+time!;Hello,+I'm+Sowjanya.&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e7335eef-81ca-4586-a357-48f076c913b3" width="220"/>
-</p>
-
 <h1 align="center">Hey there! I'm Sowjanya N U 👋</h1>
 
 <p align="center">
@@ -19,7 +11,7 @@
 ## 🚀 About Me
 
 🔧 Currently learning **Backend Development & Machine Learning**  
-🧠 Exploring **real-time systems & intelligent automation**  
+🧠 Exploring **Computer Vision & real-time intelligent systems**  
 🤝 Open to collaboration on creative & impactful tech projects  
 📚 I share what I learn through bite-sized posts & discussions  
 
@@ -40,27 +32,49 @@
 
 ## 💻 Most Loved Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ---
 
-## 🤖 Frequently Used Tools & Technologies
+## 🤖 Machine Learning & Computer Vision
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+
+## ⚙️ Backend & Web Technologies
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-6DA55F?style=for-the-badge&logo=mongodb&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
 
 ---
 
-## ⚓ Version Control
+## 🎨 Frontend & UI
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+
+---
+
+## 🗄️ Databases & Cloud
+
+![MongoDB](https://img.shields.io/badge/MongoDB-6DA55F?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+## ⚓ Version Control & Tools
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -69,7 +83,7 @@
 ✔ Real-time applications  
 ✔ ML-powered tools  
 ✔ Interactive & animated UI  
-✔ Automation projects  
+✔ Automation & productivity tools  
 
 ---
 
