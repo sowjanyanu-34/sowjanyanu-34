@@ -89,8 +89,7 @@
 
 ## ✍️ Fun Fact
 
-> I love doing a lot of things…  
-> but I hate that I love doing a lot of things 😄
+>I debug for 3 hours… and the bug fixes itself when someone walks by.😄
 
 ---
 
