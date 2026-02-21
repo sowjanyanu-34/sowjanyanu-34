@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-🔧 Currently learning **Backend Development & Machine Learning**
+🔧 Currently learning **Backend Development & Machine Learning**  
 🧠 Exploring **Computer Vision & real-time intelligent systems**  
 🤝 Open to collaboration on creative & impactful tech projects  
 📚 I share what I learn through bite-sized posts & discussions  
@@ -30,14 +30,9 @@
 
 ---
 
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sowjanyanu-34&show_icons=true&theme=github_light" height="170"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sowjanyanu-34&layout=compact&theme=github_light" height="170"/>
-
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sowjanyanu-34&theme=github"/>
 </p>
 
@@ -46,10 +41,11 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sowjanyanu-34&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=sowjanyanu-34&theme=github-light&hide_border=true"/>
 </p>
 
 ---
+
 ## 💻 Most Loved Languages
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -109,8 +105,8 @@
 
 ## ✍️ Fun Fact
 
->I debug for 3 hours… and the bug fixes itself when someone walks by.😄
+> I debug for 3 hours… and the bug fixes itself when someone walks by. 😄
 
 ---
 
-⭐ ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and collaborate. If you find something helpful, consider giving it a star.*
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and collaborate. If you find something helpful, consider giving it a star.*
