@@ -35,10 +35,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sowjanyanu-34&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowjanyanu-34&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sowjanyanu-34&show_icons=true&theme=github_light&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowjanyanu-34&layout=compact&theme=github_light&hide_border=true" height="170"/>
 </p>
-
 ---
 
 ## 🔥 Contribution Streak
