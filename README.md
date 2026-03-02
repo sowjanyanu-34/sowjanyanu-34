@@ -1,9 +1,9 @@
-<h1 align="center">Hey there! I'm Sowjanya N U 👋👋</h1>
+<h1 align="center">Hey there! I'm Sowjanya N U 👋</h1>
 
 <p align="center">
-💻 Backend & Machine Learning Enthusiast <br>
+ Backend & Machine Learning Enthusiast <br>
 🎓 B.E. Computer Science Student @ NIE Mysore, India <br>
-🚀 Passionate about building real-time apps & intelligent systems
+ Passionate about building real-time apps & intelligent systems
 </p>
 
 ---
