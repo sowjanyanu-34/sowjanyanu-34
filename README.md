@@ -105,9 +105,9 @@
 
 ---
 
-## ✍️ Fun Fact
+##  Fun Fact
 
-> I debug for 3 hours… and the bug fixes itself when someone walks by. 😄
+> I debug for 3 hours… and the bug fixes itself when someone walks by. 
 
 ---
 
