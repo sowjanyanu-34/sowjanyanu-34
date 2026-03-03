@@ -111,4 +111,4 @@
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and collaborate. If you find something helpful, consider giving it a star.*
+ *Thanks for visiting my profile! Feel free to explore my repositories and collaborate. If you find something helpful, consider giving it a star.*
