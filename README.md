@@ -96,7 +96,7 @@
 
 ---
 
-## ✨ What I Enjoy Building
+##  What I Enjoy Building
 
 ✔ Real-time applications  
 ✔ ML-powered tools  
