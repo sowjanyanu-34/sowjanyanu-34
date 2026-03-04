@@ -40,7 +40,7 @@
 
 ---
 
-## 🔥 Contribution Streak
+##  Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sowjanyanu-34&theme=github-light&hide_border=true"/>
