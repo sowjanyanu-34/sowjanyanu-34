@@ -65,7 +65,7 @@
 
 ---
 
-## ⚙️ Backend & Web Technologies
+##  Backend & Web Technologies
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
