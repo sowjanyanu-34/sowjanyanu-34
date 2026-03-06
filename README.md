@@ -81,7 +81,7 @@
 
 ---
 
-## 🗄️ Databases & Cloud
+##  Databases & Cloud
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-6DA55F?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
