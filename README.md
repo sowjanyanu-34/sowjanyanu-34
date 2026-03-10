@@ -98,7 +98,7 @@
 
 ##  What I Enjoy Building
 
-✔ Real-time applications  
+1.Real-time applications  
 ✔ ML-powered tools  
 ✔ Interactive & animated UI  
 ✔ Automation & productivity tools  
