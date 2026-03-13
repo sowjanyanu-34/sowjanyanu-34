@@ -100,7 +100,7 @@
 
 1.Real-time applications  
 2.ML-powered tools  
-✔ Interactive & animated UI  
+3.Interactive & animated UI  
 ✔ Automation & productivity tools  
 
 ---
