@@ -20,9 +20,6 @@
 ##  Connect With Me
 
 <p align="center">
-  <a href="https://www.instagram.com/sowjanya__344">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/sowjanya-n-u-78b5662a1">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
   </a>
