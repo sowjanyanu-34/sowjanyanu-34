@@ -2,7 +2,7 @@
 
 <p align="center">
  Backend & Machine Learning Enthusiast <br>
-🎓 B.E. Computer Science Student @ NIE Mysore, India <br>
+ B.E. Computer Science Student @ NIE Mysore, India <br>
  Passionate about building real-time apps & intelligent systems
 </p>
 
