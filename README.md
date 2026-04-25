@@ -1,4 +1,4 @@
-<h1 align="center">Hey there!! I'm Sowjanya N U</h1>
+<h1 align="center">Hey there!! I'm Sowjanya N U👋</h1>
 
 <p align="center">
  Backend & Machine Learning Enthusiast <br>
