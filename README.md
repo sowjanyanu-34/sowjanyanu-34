@@ -25,7 +25,7 @@
   </a>
 </p>
 
-##  Profile Views
+## ✅ Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sowjanyanu-34&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
