@@ -8,7 +8,7 @@
 
 ---
 
-##  About Me
+## ✅ About Me
 
  Currently learning **Backend Development & Machine Learning**  
  Exploring **Computer Vision & real-time intelligent systems**  
